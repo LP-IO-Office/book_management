@@ -15,7 +15,7 @@ function App() {
     <div className="min-h-screen">
       <header className="bg-purple-700 text-white py-4 shadow">
         <h1 className="text-center text-2xl font-semibold">
-          Book Library
+          Book 
         </h1>
       </header>
       <main className="max-w-6xl mx-auto p-6 grid grid-cols-1 md:grid-cols-3 gap-6">
